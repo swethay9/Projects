@@ -126,3 +126,8 @@ The following R libraries were used:
 - **Visualizations**: Scatter plots, histograms, and model performance graphs.  
 - **Model Performance**: R-squared, RMSE, MAE, and accuracy scores.  
 
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Name**: Swetha
+- **Email**: swethachowdhary33@gmail.com
+- **GitHub**: [SWETHAY9](https://github.com/swethay9)
