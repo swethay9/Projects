@@ -105,7 +105,7 @@ print(classification_report(y_test, predictions))
 
 ---
 
-## ## Contributing
+ ## Contributing
 Contributions are welcome! If you want to contribute:
 1. Fork this repository.
 2. Create a new branch for your feature or bug fix.
