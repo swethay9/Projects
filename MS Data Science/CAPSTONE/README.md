@@ -1,4 +1,3 @@
-
 # Capstone: Brain Tumor Diagnosis
 Developed and optimized deep learning models for tumor classification and segmentation from MRI data.
 
