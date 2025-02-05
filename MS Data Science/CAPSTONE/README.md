@@ -1,7 +1,8 @@
 
 # Capstone: Brain Tumor Diagnosis
 Developed and optimized deep learning models for tumor classification and segmentation from MRI data.
-Author
+
+# Author
 Swetha Yanamandhalla
 Date: May 3, 2024
 
