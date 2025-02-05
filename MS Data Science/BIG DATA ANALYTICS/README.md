@@ -36,10 +36,10 @@ The project is based on real-world **NYC Yellow Cab trip data from 2016**, conta
 🔹 **A sample submission file** (`sample_submission.csv`)  
 
 ### **Key Data Fields**  
-📍 **Pickup & Drop-off Info**: Latitude/Longitude coordinates  
-🕒 **Timestamps**: Start & end times of trips  
-👥 **Passenger Count**: How many riders per trip  
-⏳ **Trip Duration**: Travel time in seconds  
+**Pickup & Drop-off Info**: Latitude/Longitude coordinates  
+**Timestamps**: Start & end times of trips  
+**Passenger Count**: How many riders per trip  
+**Trip Duration**: Travel time in seconds  
 
 ---
 
@@ -109,24 +109,29 @@ python gui_showcase.py
 
 ## **Findings & Results**  
 
-📅 **Taxi Demand by Time**  
-- 🚗 **Weekdays are busier than weekends**  
-- ⏰ **Peak hours**: Morning rush (7-9 AM) & evening commute (5-8 PM)  
+**Taxi Demand by Time**  
+-  **Weekdays are busier than weekends**  
+-  **Peak hours**: Morning rush (7-9 AM) & evening commute (5-8 PM)  
 
-📍 **Spatial Insights**  
-- 🌆 **Manhattan dominates taxi activity**  
-- 🛑 High-density drop-offs near **airports, business districts, and tourist spots**  
+ **Spatial Insights**  
+-  **Manhattan dominates taxi activity**  
+-  High-density drop-offs near **airports, business districts, and tourist spots**  
 
 🗺 **Clustering Insights**  
-- **80 trip clusters identified** 📊  
+- **80 trip clusters identified**   
 - Revealed common routes for **business commuters, airport transfers, and nightlife travelers**  
 
 ---
 
 ## **Credits & Acknowledgments**  
 
-🗂 **Data Source**: NYC Taxi and Limousine Commission (TLC)  
-📊 **Inspiration**: Open-source transportation datasets & visualization tools  
+ **Data Source**: NYC Taxi and Limousine Commission (TLC)  
+ **Inspiration**: Open-source transportation datasets & visualization tools  
 
 ---
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Name**: Swetha
+- **Email**: swethachowdhary33@gmail.com
+- **GitHub**: [SWETHAY9](https://github.com/swethay9)
 
