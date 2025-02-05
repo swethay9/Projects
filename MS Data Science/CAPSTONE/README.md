@@ -1,87 +1,114 @@
-# Capstone: Brain Tumor Diagnosis
-Developed and optimized deep learning models for tumor classification and segmentation from MRI data.
+# 🧠 Brain Tumor Diagnosis Using Deep Learning  
 
-# Author
-Swetha Yanamandhalla
+## **Author**  
+**Swetha Yanamandhalla**  
+📅 **Date**: May 3, 2024  
 
-Date: May 3, 2024
+## **Project Overview**  
+This repository contains deep learning models for **brain tumor classification and segmentation** using MRI scans. By leveraging **Convolutional Neural Networks (CNNs), ResNet-50, and VGG19**, we explore how different architectures perform in diagnosing brain tumors. The project demonstrates **custom model building, transfer learning, and model interpretability** through various techniques.  
 
-# Deep Learning Models Overview
+---  
 
-This repository contains Jupyter Notebooks implementing and experimenting with various Convolutional Neural Network (CNN) architectures, including custom CNN, ResNet-50, and VGG19. These notebooks are designed to provide a hands-on understanding of the models, their training processes, and performance evaluation on image classification tasks.
+## **Repository Structure**  
 
-## Files
+### 📂 **1. `CNN.ipynb` - Custom CNN Model**  
+This notebook walks through the creation of a **Convolutional Neural Network (CNN) from scratch** for tumor classification.  
 
-### 1. `CNN.ipynb`
-This notebook demonstrates the implementation of a custom Convolutional Neural Network (CNN). It includes:
-- **Architecture Design**: A simple yet effective CNN model built from scratch.
-- **Dataset Loading**: Preprocessing and augmentation of an image dataset.
-- **Model Training**: Training the model with a specified optimizer, loss function, and evaluation metrics.
-- **Evaluation**: Metrics and visualizations like accuracy and loss curves.
+🔹 **Key Highlights:**  
+✔️ Designing a **custom CNN architecture** for image classification  
+✔️ **Preprocessing & Augmentation**: Optimizing MRI images for training  
+✔️ **Training & Optimization**: Using Adam optimizer and categorical cross-entropy loss  
+✔️ **Performance Metrics**: Accuracy, loss visualization, and confusion matrix  
 
-Use this notebook to understand the fundamentals of CNNs and their application to image classification.
+👀 **Why Use This?**  
+Perfect for understanding **how CNNs process medical images** and their core functionality.  
 
----
+---  
 
-### 2. `RESNET50.ipynb`
-This notebook focuses on utilizing ResNet-50, a popular pre-trained deep learning model, for image classification tasks. It includes:
-- **Pre-trained Model Usage**: Leveraging ResNet-50 from libraries like TensorFlow/Keras or PyTorch.
-- **Transfer Learning**: Fine-tuning the model for a custom dataset.
-- **Performance Analysis**: Detailed metrics, confusion matrix, and visualizations of predictions.
-- **Advanced Features**: Techniques like data augmentation and learning rate scheduling.
+### 📂 **2. `RESNET50.ipynb` - Transfer Learning with ResNet-50**  
+This notebook implements **ResNet-50**, a pre-trained model known for its efficiency in **image recognition tasks**.  
 
-This notebook is ideal for understanding the power of transfer learning and ResNet-50's performance on complex datasets.
+🔹 **Key Highlights:**  
+✔️ **Transfer Learning**: Fine-tuning ResNet-50 for MRI classification  
+✔️ **Data Augmentation**: Improving generalization with transformations  
+✔️ **Performance Evaluation**: Confusion matrix, precision-recall, and accuracy metrics  
+✔️ **Advanced Features**: Learning rate scheduling and dropout layers for better regularization  
 
----
+👀 **Why Use This?**  
+ResNet-50 helps improve model accuracy with **fewer labeled images** and speeds up training.  
 
-### 3. `VGG19.ipynb`
-This notebook implements the VGG19 architecture, another pre-trained model known for its depth and simplicity. It includes:
-- **Architecture Overview**: Explanation of VGG19 layers and their functionality.
-- **Dataset Preparation**: Steps to preprocess and split data for training and validation.
-- **Model Training**: Fine-tuning the VGG19 model with various hyperparameters.
-- **Visualization**: Features like Grad-CAM to interpret model decisions.
+---  
 
-Use this notebook to explore how deeper networks like VGG19 perform and the benefits of model interpretability.
+### 📂 **3. `VGG19.ipynb` - Deep Feature Extraction with VGG19**  
+This notebook applies **VGG19**, a deeper network that excels at feature extraction.  
 
----
+🔹 **Key Highlights:**  
+✔️ Understanding the **layer-by-layer functionality** of VGG19  
+✔️ **Fine-Tuning & Optimization**: Hyperparameter tuning for better predictions  
+✔️ **Model Interpretability**: Using **Grad-CAM** to visualize which areas influence model decisions  
+✔️ **Performance Metrics**: Accuracy comparison and validation scores  
 
-## Requirements
-Before running these notebooks, ensure the following dependencies are installed:
-- Python 3.7+
-- TensorFlow or PyTorch
-- NumPy
-- Matplotlib
-- scikit-learn
-- Jupyter Notebook or JupyterLab
-- Additional libraries for data handling and augmentation (e.g., pandas, OpenCV, or PIL)
+👀 **Why Use This?**  
+Great for exploring **deep network architectures** and their ability to capture intricate patterns in MRI images.  
 
-Install dependencies using:
+---  
+
+## **Installation & Setup**  
+
+### **🔧 Requirements**  
+Ensure you have the following dependencies installed:  
+- **Python 3.7+**  
+- **TensorFlow / PyTorch** (choose based on your preference)  
+- **NumPy, Matplotlib, scikit-learn** for analysis  
+- **Jupyter Notebook** for running and experimenting  
+- **OpenCV / PIL** for image processing  
+
+### **📥 Install Dependencies**  
+Run the following command to install required packages:  
 ```bash
 pip install -r requirements.txt
-```
-
-## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo/deep-learning-models.git
-   cd deep-learning-models
-   ```
-2. Open the desired notebook:
-   ```bash
-   jupyter notebook CNN.ipynb
-   ```
-3. Follow the instructions within the notebook to train and evaluate the models.
-
-## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your enhancements.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-For questions or collaboration, feel free to reach out at swethachowdhary33@gmail.com
+```  
 
 ---
 
-Happy coding and learning!
+## **How to Use This Project**  
 
+1️⃣ **Clone the Repository**  
+```bash
+git clone https://github.com/your-repo/brain-tumor-diagnosis.git  
+cd brain-tumor-diagnosis  
+```  
+
+2️⃣ **Open the Notebooks**  
+```bash
+jupyter notebook CNN.ipynb  
+```  
+or  
+```bash
+jupyter notebook RESNET50.ipynb  
+```  
+
+3️⃣ **Follow the Instructions in the Notebook**  
+Each notebook contains step-by-step guidance on **loading data, training the model, and evaluating performance**.  
+
+---
+
+## **How You Can Contribute**  
+
+🚀 Found a way to improve accuracy?  
+🔍 Have an idea for enhancing model interpretability?  
+💡 Want to experiment with different architectures?  
+
+Feel free to **fork the repository**, make your improvements, and submit a **pull request**! Contributions are always welcome.  
+
+---
+
+## **📜 License**  
+This project is **open-source** and licensed under the **MIT License**. Check the `LICENSE` file for more details.  
+
+---
+
+## **📬 Contact**  
+For any questions, feedback, or collaboration opportunities, reach out at **swethachowdhary33@gmail.com**.  
+
+🔹 **Happy coding and happy learning!** 🧠✨
