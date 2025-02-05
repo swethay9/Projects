@@ -194,6 +194,10 @@ This project is open-source and available under the **MIT License**. Check the `
 
 This project demonstrates **secure handling of healthcare data** with **encryption, authentication, and role-based access control**. It provides a **strong foundation for building privacy-compliant healthcare systems** while maintaining ease of access for authorized users.  
 
- 
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Name**: Swetha
+- **Email**: swethachowdhary33@gmail.com
+- **GitHub**: [SWETHAY9](https://github.com/swethay9) 
 
 
