@@ -5,11 +5,11 @@ Swetha Yanamandhalla
 Date:Dec 13,2024
 
 
-🚀 **Enhanced neural network architecture achieving 85.3% accuracy on MNIST!**  
+ **Enhanced neural network architecture achieving 85.3% accuracy on MNIST!**  
 
 ---
 
-## **📌 Project Overview**  
+## ** Project Overview**  
 This repository contains **two Jupyter notebooks** designed to implement, analyze, and compare different deep learning architectures for digit classification on the **MNIST dataset**. The goal is to evaluate improvements in performance when extending a baseline neural network.  
 
 📂 **Notebooks Included:**  
@@ -18,7 +18,7 @@ This repository contains **two Jupyter notebooks** designed to implement, analyz
 
 ---
 
-## **📖 Notebook Descriptions**  
+## ** Notebook Descriptions**  
 
 ### 🔹 `extended_network.ipynb`  
 🔸 Implements an **extended version** of the original neural network.  
@@ -32,7 +32,7 @@ This repository contains **two Jupyter notebooks** designed to implement, analyz
 
 ---
 
-## **⚙️ How to Use**  
+## ** How to Use**  
 
 1️⃣ Ensure **Python 3.8+** is installed on your system.  
 2️⃣ Install the necessary dependencies:  
@@ -49,12 +49,12 @@ This repository contains **two Jupyter notebooks** designed to implement, analyz
 
 ## **📂 Project Structure**  
 
-📌 **`extended_network.ipynb`** – Advanced neural network with improved architecture.  
-📌 **`original_network.ipynb`** – Standard baseline model for comparison.  
+ **`extended_network.ipynb`** – Advanced neural network with improved architecture.  
+ **`original_network.ipynb`** – Standard baseline model for comparison.  
 
 ---
 
-## **🎯 Purpose**  
+## ** Purpose**  
 The aim of this project is to **analyze the impact of architectural changes** in neural networks by comparing the **extended model against the original version**. By running the notebooks, users can:  
 ✔️ Observe improvements in model accuracy.  
 ✔️ Understand the role of additional layers and optimizations.  
@@ -62,15 +62,20 @@ The aim of this project is to **analyze the impact of architectural changes** in
 
 ---
 
-## **📊 Results**  
+## ** Results**  
 🔹 The **extended network achieved 85.3% accuracy**, demonstrating significant improvement over the original architecture.  
 🔹 Detailed **performance metrics** and visualizations are available in the output sections of each notebook.  
 
 ---
 
-## **📜 License**  
+## ** License**  
 This project is **open-source** under the **MIT License** – feel free to use, modify, and build upon it!  
 
 ---
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Name**: Swetha
+- **Email**: swethachowdhary33@gmail.com
+- **GitHub**: [SWETHAY9](https://github.com/swethay9)
 
 
