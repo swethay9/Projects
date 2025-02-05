@@ -1,6 +1,9 @@
 
 # Capstone: Brain Tumor Diagnosis
 Developed and optimized deep learning models for tumor classification and segmentation from MRI data.
+Author
+Swetha Yanamandhalla
+Date: May 3, 2024
 
 # Deep Learning Models Overview
 
@@ -75,7 +78,7 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-For questions or collaboration, feel free to reach out at gannavarapup.11@gmail.com.
+For questions or collaboration, feel free to reach out at swethachowdhary33@gmail.com
 
 ---
 
