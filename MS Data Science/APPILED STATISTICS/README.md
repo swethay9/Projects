@@ -61,7 +61,11 @@ install.packages(c("alr4", "dplyr", "caret", "MASS", "glmnet", "boot"))
 
 ---
 
-## **About the Author**  
-**Swetha Yanamandhalla**  
-**Date**: December 5, 2023  
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Name**: Swetha
+- **Email**: swethachowdhary33@gmail.com
+- **GitHub**: [SWETHAY9](https://github.com/swethay9)
+ 
+
 
