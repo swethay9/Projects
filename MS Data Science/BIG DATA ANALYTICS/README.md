@@ -7,6 +7,7 @@ Created regression models to predict NYC Yellow Cab trip durations with optimize
 
 # NYC Taxi Trip Analysis and Visualization
 
+
 This project explores the spatial and temporal patterns of New York City's cab usage using the 2016 NYC Yellow Cab trip record data. The aim is to uncover trends, behaviors, and insights through various analyses, including clustering, density mapping, and temporal visualization.
 
 ---
