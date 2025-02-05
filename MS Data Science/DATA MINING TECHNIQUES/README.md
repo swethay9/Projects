@@ -13,16 +13,16 @@ With the rise of misinformation, detecting fake news has become more crucial tha
 
 ## **Key Features**  
 
-✅ **Text Preprocessing & Cleaning**  
+**Text Preprocessing & Cleaning**  
 - Removing special characters, punctuation, and stopwords  
 - Applying **lemmatization** to standardize words  
 - Converting text to lowercase for uniformity  
 
-✅ **Feature Engineering with TF-IDF**  
+ **Feature Engineering with TF-IDF**  
 - Transforming raw text into meaningful numerical features  
 - Extracting important words and phrases for classification  
 
-✅ **Machine Learning Models for Fake News Detection**  
+ **Machine Learning Models for Fake News Detection**  
 Implemented and compared multiple classifiers, including:  
 🔹 **Logistic Regression**  
 🔹 **Support Vector Machines (SVM)**  
@@ -31,7 +31,7 @@ Implemented and compared multiple classifiers, including:
 🔹 **Gradient Boosting Machines (GBM)**  
 🔹 **Bagging & Bootstrapping Ensembles**  
 
-✅ **Performance Evaluation**  
+**Performance Evaluation**  
 - **Confusion matrix** to analyze misclassifications  
 - **Classification reports** for precision, recall, and F1-score  
 - **Accuracy comparison** across different models  
