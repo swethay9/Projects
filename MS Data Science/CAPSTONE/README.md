@@ -2,7 +2,7 @@
 
 ## **Author**  
 **Swetha Yanamandhalla**  
-📅 **Date**: May 3, 2024  
+**Date**: May 3, 2024  
 
 ## **Project Overview**  
 This repository contains deep learning models for **brain tumor classification and segmentation** using MRI scans. By leveraging **Convolutional Neural Networks (CNNs), ResNet-50, and VGG19**, we explore how different architectures perform in diagnosing brain tumors. The project demonstrates **custom model building, transfer learning, and model interpretability** through various techniques.  
@@ -95,20 +95,24 @@ Each notebook contains step-by-step guidance on **loading data, training the mod
 
 ## **How You Can Contribute**  
 
-🚀 Found a way to improve accuracy?  
-🔍 Have an idea for enhancing model interpretability?  
-💡 Want to experiment with different architectures?  
+ Found a way to improve accuracy?  
+ Have an idea for enhancing model interpretability?  
+ Want to experiment with different architectures?  
 
 Feel free to **fork the repository**, make your improvements, and submit a **pull request**! Contributions are always welcome.  
 
 ---
 
-## **📜 License**  
+## **license**  
 This project is **open-source** and licensed under the **MIT License**. Check the `LICENSE` file for more details.  
 
 ---
 
-## **📬 Contact**  
-For any questions, feedback, or collaboration opportunities, reach out at **swethachowdhary33@gmail.com**.  
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Name**: Swetha
+- **Email**: swethachowdhary33@gmail.com
+- **GitHub**: [SWETHAY9](https://github.com/swethay9)
+
 
 🔹 **Happy coding and happy learning!** 🧠✨
