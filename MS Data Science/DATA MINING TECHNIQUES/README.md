@@ -2,7 +2,7 @@
 
 ## **Author**  
 **Swetha Yanamandhalla**  
-📅 **Date**: May 5, 2024  
+**Date**: May 5, 2024  
 
 ---
 
@@ -40,19 +40,19 @@ Implemented and compared multiple classifiers, including:
 
 ## **Installation & Setup**  
 
-### 📥 **Clone the Repository**  
+###  **Clone the Repository**  
 ```bash
 git clone <repository_url>
 cd fake-news-detection
 ```
 
-### 📦 **Install Dependencies**  
+###  **Install Dependencies**  
 Ensure you have Python installed, then run:  
 ```bash
 pip install -r requirements.txt
 ```
 
-### 📂 **Dataset Setup**  
+###  **Dataset Setup**  
 Download and place the dataset files in the appropriate directory:  
 - `train.csv` → Training dataset  
 - `test.csv` → Unlabeled test data  
@@ -99,9 +99,9 @@ print(classification_report(y_test, predictions))
 
 ## **Results & Insights**  
 
-📊 **Best-Performing Model**: Identified the most accurate classifier through rigorous testing.  
-🔍 **Feature Importance**: Analyzed which words and phrases contribute most to classification.  
-📉 **Error Analysis**: Examined misclassified cases to improve model robustness.  
+ **Best-Performing Model**: Identified the most accurate classifier through rigorous testing.  
+ **Feature Importance**: Analyzed which words and phrases contribute most to classification.  
+ **Error Analysis**: Examined misclassified cases to improve model robustness.  
 
 ---
 
@@ -122,5 +122,10 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 - Thanks to the creators of the dataset for their efforts in data collection.
 - Libraries used: `scikit-learn`, `pandas`, `matplotlib`, `nltk`, `seaborn`.
 ---
+## Contact
+For any inquiries or suggestions, feel free to reach out:
+- **Name**: Swetha
+- **Email**: swethachowdhary33@gmail.com
+- **GitHub**: [SWETHAY9](https://github.com/swethay9)
 
 
