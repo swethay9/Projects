@@ -3,8 +3,8 @@
 Developed and optimized deep learning models for tumor classification and segmentation from MRI data.
 
 # Author
-Swetha Yanamandhalla
-Date: May 3, 2024
+# Swetha Yanamandhalla
+# Date: May 3, 2024
 
 # Deep Learning Models Overview
 
