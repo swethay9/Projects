@@ -4,7 +4,8 @@ Developed and optimized deep learning models for tumor classification and segmen
 
 # Author
 Swetha Yanamandhalla
-##Date: May 3, 2024
+
+Date: May 3, 2024
 
 # Deep Learning Models Overview
 
