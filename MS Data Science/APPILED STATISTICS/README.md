@@ -7,7 +7,7 @@ This repository contains R Markdown scripts for a statistical learning project f
 
 ## **Project Breakdown**  
 
-### 📌 **1. Logistic Regression Analysis**  
+###  **1. Logistic Regression Analysis**  
 - **Dataset**: `Downer` (from the `alr4` package)  
 - **Goal**: Predict whether a cow will calve (`calving`) based on factors like `daysrec`, `ck`, `ast`, `urea`, and `pcv`.  
 - **Steps Taken**:  
@@ -19,7 +19,7 @@ This repository contains R Markdown scripts for a statistical learning project f
 
 ---
 
-### 📌 **2. Lasso Regression on Boston Housing Data**  
+###  **2. Lasso Regression on Boston Housing Data**  
 - **Dataset**: `Boston` (from the `MASS` package)  
 - **Goal**: Predict the **median home value (`medv`)** based on various housing characteristics.  
 - **Steps Taken**:  
@@ -30,7 +30,7 @@ This repository contains R Markdown scripts for a statistical learning project f
 
 ---
 
-### 📌 **3. Polynomial Regression on Faithful Dataset**  
+###  **3. Polynomial Regression on Faithful Dataset**  
 - **Dataset**: `faithful` (Old Faithful Geyser dataset)  
 - **Goal**: Predict eruption duration (`eruptions`) based on waiting time (`waiting`).  
 - **Steps Taken**:  
@@ -42,13 +42,13 @@ This repository contains R Markdown scripts for a statistical learning project f
 ---
 
 ## **How to Run the Project**  
-### 🛠 **Step 1: Install Required Packages**  
+###  **Step 1: Install Required Packages**  
 Run this command in R to install all necessary libraries:  
 ```r
 install.packages(c("alr4", "dplyr", "caret", "MASS", "glmnet", "boot"))
 ```
 
-### 🛠 **Step 2: Load the R Markdown File**  
+###  **Step 2: Load the R Markdown File**  
 - Open the `.Rmd` file in **RStudio** or any R-compatible IDE.  
 - Run each code chunk **sequentially** to execute the analysis.  
 
