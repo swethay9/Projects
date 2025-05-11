@@ -64,45 +64,56 @@ All charts are coded manually using D3.js to ensure full customization and inter
 ```bash
 git clone https://github.com/swethay9/IV-PROJECT.git
 cd IV-PROJECT
- 🌐 Live Demo
-🔗 Live Dashboard: https://swethay9.github.io/IV-PROJECT/
+2️⃣ Open the Dashboard
+Since this is a static site, no server setup is needed. You can open the dashboard in any browser.
 
-📂 GitHub Repo: https://github.com/swethay9/IV-PROJECT.git
 
-👥 Team Members & Roles
-Swetha Yanamandhalla
-→ Developed the Parallel Coordinates Plot, handled multivariate data preparation, styled dashboard layout
 
-Sai Laxmi Priyanka Gannavarapu
-→ Built the Line Chart for time-series MPG analysis, implemented zooming and GitHub deployment
+## 🌐 Live Demo
 
-Ajaychary Kandukuri
-→ Created the Scatter Plot with regression, handled advanced D3.js interactivity and data layering
+- 🔗 **Live Dashboard**: https://swethay9.github.io/IV-PROJECT/
+- 📂 **GitHub Repo**: https://github.com/swethay9/IV-PROJECT.git
 
-Akhil Pathi
-→ Constructed the Bar Chart for manufacturer/origin distribution, integrated color grouping and tooltips
 
-🎯 Design Principles
+
+## 👥 Team Members & Roles
+
+- **Swetha Yanamandhalla**  
+  → Developed the Parallel Coordinates Plot, handled multivariate data preparation, styled dashboard layout
+
+- **Sai Laxmi Priyanka Gannavarapu**  
+  → Built the Line Chart for time-series MPG analysis, implemented zooming and GitHub deployment
+
+- **Ajaychary Kandukuri**  
+  → Created the Scatter Plot with regression, handled advanced D3.js interactivity and data layering
+
+- **Akhil Pathi**  
+  → Constructed the Bar Chart for manufacturer/origin distribution, integrated color grouping and tooltips
+
+---
+
+## 🎯 Design Principles
+
 Built using IEEE VIS 2023 heuristics for visual design:
 
-Logical narrative progression across tasks
+- Logical narrative progression across tasks  
+- Accessibility with high contrast and responsive tooltips  
+- Cohesive layout with consistent styling  
+- Interactive elements that support exploration and comparison
 
-Accessibility with high contrast and responsive tooltips
+---
 
-Cohesive layout with consistent styling
+## 📄 License
 
-Interactive elements that support exploration and comparison
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for details.
 
-📄 License
-This project is licensed under the MIT License.
-See the LICENSE file for details.
+---
 
-📬 Contact
-If you'd like to provide feedback or collaborate:
+## 📬 Contact
 
-Author: Swetha Yanamandhalla
-
-Email: swethachowdhary33@gmail.com
-
-GitHub: https://github.com/SWETHAY9
+**Author:** Swetha Yanamandhalla  
+**Email:** swethachowdhary33@gmail.com  
+**GitHub:** https://github.com/SWETHAY9
+ 
 
