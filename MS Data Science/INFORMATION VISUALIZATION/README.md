@@ -1,3 +1,4 @@
+
 # 🚗 Car Data Insights: Interactive Dashboard using D3.js
 
 ## 📌 Overview
@@ -33,16 +34,9 @@ Each chart includes real-time interaction such as brushing, zooming, hovering to
 The dashboard addresses four main analytical goals:
 
 1. **Cluster vehicles** by key design/performance attributes  
-   → Using a parallel coordinates plot to reveal similarities in technical specs
-
 2. **Compare fuel efficiency over time**  
-   → Using a multi-line chart grouped by vehicle origin to track MPG improvements or declines
-
 3. **Analyze engine efficiency patterns**  
-   → Using a scatter plot to compare horsepower against MPG and assess weight impact
-
-4. **Understand regional production patterns**  
-   → Using a bar chart to identify major manufacturers and their global distribution
+4. **Understand regional production patterns**
 
 Each visualization is built with usability and data clarity in mind.
 
@@ -50,13 +44,11 @@ Each visualization is built with usability and data clarity in mind.
 
 ## ⚙️ Tools & Technologies
 
-- **D3.js v7** – Main library for data visualization
-- **HTML, CSS, JavaScript** – Structuring and styling the dashboard
-- **GitHub Pages** – Used to host the live project
+- **D3.js v7** – Main library for data visualization  
+- **HTML, CSS, JavaScript** – Structuring and styling the dashboard  
+- **GitHub Pages** – Used to host the live project  
 
-All charts are coded manually using D3.js to ensure full customization and interaction flexibility.
-
-
+---
 
 ## 🚀 Getting Started
 
@@ -65,59 +57,78 @@ All charts are coded manually using D3.js to ensure full customization and inter
 ```bash
 git clone https://github.com/swethay9/IV-PROJECT.git
 cd IV-PROJECT
-2️⃣ Open the Dashboard
-Since this is a static site, no server setup is needed. You can open the dashboard in any browser.
+```
+
+### 2️⃣ Open the Dashboard
+Since this is a static site, no server setup is needed. You can open the dashboard in any browser:
+
+#### 🪟 On Windows:
+```bash
+start index.html
+```
+
+#### 🍎 On macOS:
+```bash
+open index.html
+```
+
+#### 🐧 On Linux:
+```bash
+xdg-open index.html
+```
+
+✅ **Alternatively**, drag and drop the `index.html` file directly into any modern browser (Chrome, Firefox, Edge, etc.).
 
 ---
-
 
 ## 🌐 Live Demo
-🔗 Live Dashboard: https://swethay9.github.io/IV-PROJECT/
 
-📂 GitHub Repo: https://github.com/swethay9/IV-PROJECT.git
-
----
-
-👥 **Team Members & Roles**
-Swetha Yanamandhalla
-→ Developed the Parallel Coordinates Plot, handled multivariate data preparation, styled dashboard layout
-
-Sai Laxmi Priyanka Gannavarapu
-→ Built the Line Chart for time-series MPG analysis, implemented zooming and GitHub deployment
-
-Ajaychary Kandukuri
-→ Created the Scatter Plot with regression, handled advanced D3.js interactivity and data layering
-
-Akhil Pathi
-→ Constructed the Bar Chart for manufacturer/origin distribution, integrated color grouping and tooltips
+- 🔗 **Live Dashboard**: [https://swethay9.github.io/IV-PROJECT/](https://swethay9.github.io/IV-PROJECT/)
+- 📂 **GitHub Repo**: [https://github.com/swethay9/IV-PROJECT.git](https://github.com/swethay9/IV-PROJECT.git)
 
 ---
 
-🎯 **Design Principles**
-Built using IEEE VIS 2023 heuristics for visual design:
+## 👥 Team Members & Roles
 
-Logical narrative progression across tasks
+- **Swetha Yanamandhalla**  
+  → Developed the Parallel Coordinates Plot, handled multivariate data preparation, styled dashboard layout
 
-Accessibility with high contrast and responsive tooltips
+- **Sai Laxmi Priyanka Gannavarapu**  
+  → Built the Line Chart for time-series MPG analysis, implemented zooming and GitHub deployment
 
-Cohesive layout with consistent styling
+- **Ajaychary Kandukuri**  
+  → Created the Scatter Plot with regression, handled advanced D3.js interactivity and data layering
 
-Interactive elements that support exploration and comparison
-
----
-
-## **license**  
-This project is **open-source** and licensed under the **MIT License**. Check the `LICENSE` file for more details.  
+- **Akhil Pathi**  
+  → Constructed the Bar Chart for manufacturer/origin distribution, integrated color grouping and tooltips
 
 ---
 
-## **Contact
-For any inquiries or suggestions, feel free to reach out:
-- **Name**: Swetha
-- **Email**: swethachowdhary33@gmail.com
-- **GitHub**: [SWETHAY9](https://github.com/swethay9)
+## 🎯 Design Principles
 
+Built using **IEEE VIS 2023 heuristics** for visual design:
 
+- Logical narrative progression across tasks  
+- Accessibility with high contrast and responsive tooltips  
+- Cohesive layout with consistent styling  
+- Interactive elements that support exploration and comparison  
 
- 
+---
 
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+See the `LICENSE` file for more details.
+
+---
+
+## 📬 Contact
+
+- **Author**: **Swetha Yanamandhalla**  
+- **Email**: **swethachowdhary33@gmail.com**  
+- **GitHub**: [https://github.com/SWETHAY9](https://github.com/SWETHAY9)
+
+---
+
+📊 *Visualize clearly. Explore deeply. Discover insights through data.*  
+✨ Built with D3.js by Team FLASHES.
