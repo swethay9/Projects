@@ -26,6 +26,7 @@ This file contains the complete implementation of the dashboard, including:
 
 Each chart includes real-time interaction such as brushing, zooming, hovering tooltips, and filtering for deeper exploration.
 
+---
 
 ## 🧠 Objectives & Tasks
 
@@ -45,7 +46,7 @@ The dashboard addresses four main analytical goals:
 
 Each visualization is built with usability and data clarity in mind.
 
-
+---
 
 ## ⚙️ Tools & Technologies
 
@@ -77,7 +78,7 @@ Since this is a static site, no server setup is needed. You can open the dashboa
 
 ---
 
-👥 Team Members & Roles
+👥 **Team Members & Roles**
 Swetha Yanamandhalla
 → Developed the Parallel Coordinates Plot, handled multivariate data preparation, styled dashboard layout
 
@@ -92,7 +93,7 @@ Akhil Pathi
 
 ---
 
-🎯 Design Principles
+🎯 **Design Principles**
 Built using IEEE VIS 2023 heuristics for visual design:
 
 Logical narrative progression across tasks
@@ -110,7 +111,7 @@ This project is **open-source** and licensed under the **MIT License**. Check th
 
 ---
 
-## Contact
+## **Contact
 For any inquiries or suggestions, feel free to reach out:
 - **Name**: Swetha
 - **Email**: swethachowdhary33@gmail.com
