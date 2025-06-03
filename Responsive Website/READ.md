@@ -26,7 +26,24 @@ The primary goal of this project is to design and develop a user-friendly, visua
 
 1. **Clone this repository:**
    ```bash
-   git clone github.com/swethay9/Project
+  git clone https://github.com/swethay9/Projects.git
+## 2. Set up XAMPP:
+
+Start Apache and MySQL modules in the XAMPP Control Panel.
+
+## 3.Database Setup:
+
+Open phpMyAdmin at http://localhost/phpmyadmin
+
+Create a new database (e.g., interior_design)
+
+Import the provided .sql file from the database/ folder (if included)
+
+## 4.Run the Website:
+
+Place the project folder inside htdocs
+
+Open your browser 
 ## 🧪 Testing
 Unit Testing for frontend responsiveness and individual features
 
