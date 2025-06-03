@@ -26,15 +26,15 @@ The primary goal of this project is to design and develop a user-friendly, visua
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/yourusername/interior-design-website.git
-🧪 Testing
+   git clone github.com/swethay9/Project
+## 🧪 Testing
 Unit Testing for frontend responsiveness and individual features
 
 Integration Testing for frontend-backend connectivity
 
 System Testing via XAMPP local environment
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 Add user login and registration
 
 Enable content management through a dashboard
@@ -44,14 +44,14 @@ Improve accessibility features
 Optimize page speed and SEO performance
 
 
-👥 Contributors
+## 👥 Contributors
 Ajaychary Kandukuri – Frontend Developer
 
  Karthik Kumar Reddy – Backend Developer
 
  Swetha Yanamandhalla – Database & Integration
 
-📅 Duration
+## 📅 Duration
 Internship Period: December 28, 2022 – April 22, 2023
 Company: Infinity Connects Media, Visakhapatnam, India
 
