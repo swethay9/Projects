@@ -25,7 +25,7 @@ The primary goal of this project is to design and develop a user-friendly, visua
 ## 🛠️ Installation Instructions
 
 1. **Clone this repository:**
-   ```bash git clone https://github.com/swethay9/Projects.git
+   git clone https://github.com/swethay9/Projects.git
   
 2. **Set up XAMPP:**
 
