@@ -36,50 +36,6 @@ Tested locally on **Windows + Ubuntu WSL**. You can simulate the full stack loca
 
 ---
 
-### Step-by-Step Instructions
-
-#### 1️⃣ Start Kafka Services (on Windows)
-Start **Zookeeper** and **Kafka server**:
-
-```bash
-.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
-.\bin\windows\kafka-server-start.bat .\config\server.properties
-2️⃣ Run Kafka Producer (on Windows)
-Sends simulated product click events to Kafka topic:
-
-bash
-Copy
-Edit
-python3 kafka_producer.py
-3️⃣ Run Spark Structured Streaming Consumer (on Ubuntu/WSL)
-Consumes Kafka stream, aggregates data, and saves as Parquet and CSV:
-
-bash
-Copy
-Edit
-spark-submit spark_streaming_consumer.py
-4️⃣ Start Apache Airflow Scheduler (on Ubuntu/WSL)
-Schedules or triggers the Spark job via Airflow DAG:
-
-bash
-Copy
-Edit
-source ~/airflow_env/bin/activate
-airflow scheduler
-5️⃣ Launch Flask Dashboard (on Ubuntu/WSL)
-Reads Parquet files and displays insights:
-
-bash
-Copy
-Edit
-python3 app.py
-Then open your browser and go to:
-http://localhost:5000
-
-
-
----
-
 
 
 ## 📁 **Repository Structure**
