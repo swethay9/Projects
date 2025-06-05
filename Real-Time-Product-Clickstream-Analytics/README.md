@@ -76,37 +76,50 @@ python3 app.py
 Then open your browser and go to:
 http://localhost:5000
 
-## 📁 Repository Structure
 
-kafka_producer/ → Python Kafka producer for click events
-├── spark_streaming/ → PySpark Structured Streaming script
-├── airflow_dags/ → Airflow DAG to orchestrate stream jobs
-├── flask_dashboard/ → Flask app to show real-time insights
-├── data/ → Output data in Parquet/CSV
-├── tableau_dashboard/ → Tableau visuals/snapshots
-├── requirements.txt → Python dependencies
-├── README.md → Project overview
 
 ---
 
 
 
-📊 Demo Dashboard
+## 📁 **Repository Structure**
+pgsql
+Copy
+Edit
+├── kafka_producer/        → Python Kafka producer for click events  
+├── spark_streaming/       → PySpark Structured Streaming script  
+├── airflow_dags/          → Airflow DAG to orchestrate stream jobs  
+├── flask_dashboard/       → Flask app to show real-time insights  
+├── data/                  → Output data in Parquet/CSV  
+├── tableau_dashboard/     → Tableau visuals/snapshots  
+├── requirements.txt       → Python dependencies  
+└── README.md              → Project overview  
+## 📊 **Demo Dashboard**
+🔹 Flask Dashboard – Sample Visuals
 
-![Flask With BS Dashboard1](https://github.com/user-attachments/assets/09a75ee8-bbab-4f50-893b-6ba1ba4fcfa5)
-![Flask with BS Dashboard2](https://github.com/user-attachments/assets/c0568145-ff26-4cfe-a27e-1c9cc33f786d)
 
 
+## 🚀 **Upload Your Code to GitHub**
+If not already pushed, follow these commands:
 
-
-
-###  **Upload Your Code to GitHub**
-If not already pushed:
-```bash
+bash
+Copy
+Edit
 cd Real-Time-Product-Clickstream-Analytics
 git init
 git remote add origin https://github.com/yourusername/Real-Time-Product-Clickstream-Analytics.git
 git add .
 git commit -m "Initial commit: Real-time product clickstream analytics project"
 git push -u origin main
+## 📝 **License**
+This project is licensed under the MIT License.
+
+## 📬 **Contact**
+For any inquiries or suggestions, feel free to reach out:
+
+Name: Swetha
+
+Email: swethachowdhary33@gmail.com
+
+GitHub: SWETHAY9
 
